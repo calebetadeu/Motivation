@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="salvar">Salvar</string>
+    <string name="qual_o_seu_nome">Qual é o seu nome?</string>
+    <string name="vamos_comecar">Vamos Começar?</string>
+    <string name="frase">Frase</string>
+    <string name="nameUser">Hello Word</string>
+</resources>
