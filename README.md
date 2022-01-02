@@ -2,26 +2,17 @@
 <img src="https://img.shields.io/static/v1?label=Kotlin&message=Android&color=7159c1&style=kotlin&logo=ghost" />
 
 <p aling="center" > Um app que mostra frases de motivação  </p>
-<h3> Informe </h3>
+<h3> Primeira Tela </h3>
 <ul  >
    <li>
-      A Distância em km
+     Informar o Nome
       </li>
 
-   <li>
-     O Preço por Litro
-      </li> 
-   
-   <li>
-     Autonomia do Veículo
-      </li> 
    </ul>
-<img src="https://i.ibb.co/d7KQgyF/img-Gasto-Viagem.png" height="500px"  />
-<h2> Insira seus Dados </h2/>
+<img src="https://i.ibb.co/GHqvtst/img-Motivation.png" alt="img-Motivation" border="0" height="500px" />
+<h2> Preencha o Nome </h2/>
    
-   <h3> Aperte o Botão Calcular e veja o Resultado </h3>
-   
+<img src="https://i.ibb.co/rdhYTxp/img-Motivation2.png" alt="img-Motivation2" border="0" height="500px" >
 
-<img src="https://i.ibb.co/HP6kQcR/gasto2.png" alt="gasto2" border="0" height="500px" />
-
-
+<h2> Tela das Mensagens </h2/>
+<img src="https://i.ibb.co/BBL9dTv/img-Motivation3.png" alt="img-Motivation3" border="0" height="500px" >
