@@ -1,7 +1,7 @@
-<h1 align ="center" > Gasto de Viagem </h1>
+<h1 align ="center" > MotivationApp </h1>
 <img src="https://img.shields.io/static/v1?label=Kotlin&message=Android&color=7159c1&style=kotlin&logo=ghost" />
 
-<p aling="center" > Um app que informa o quanto você vai gastar em reais de gasolina na sua viagem.  </p>
+<p aling="center" > Um app que mostra frases de motivação  </p>
 <h3> Informe </h3>
 <ul  >
    <li>
